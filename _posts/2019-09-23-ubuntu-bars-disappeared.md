@@ -9,6 +9,7 @@ I found solutions but first one didn't work for me.
 Second one is as follows.
 
 At first, CTRL+ALT+F1 to launch a tty terminal because CTRL+ALT+t would not work.
+
 And run the following set of commands.
 ```bash
 sudo rm -rf ~/.cache/compizconfig-1
@@ -19,5 +20,6 @@ setsid unity
 sudo reboot
 ```
 I refered to [this post][reference]
+
 [reference]: https://www.faqforge.com/linux/ubuntu-sidebar-top-bar-disappeared-heres-can-bring-back
 
