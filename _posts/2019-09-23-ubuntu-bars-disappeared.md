@@ -5,7 +5,9 @@ categories: ubuntu desktop
 ---
 
 Unity-related problems.
+
 I found solutions but first one didn't work for me.
+
 Second one is as follows.
 
 At first, CTRL+ALT+F1 to launch a tty terminal because CTRL+ALT+t would not work.
