@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kihyeon's Tech Blog"
+title                    : "Not too late"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kihyeon Park"
+subtitle                 : "Kihyeon's blog" # site tagline that appears below site title in masthead
+name                     : "Kihyeon"
 description              : "Tech blog"
 url                      : "https://pkh0104.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
