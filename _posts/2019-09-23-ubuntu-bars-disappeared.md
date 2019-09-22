@@ -18,5 +18,6 @@ sudo dconf reset -f /org/compiz/
 setsid unity
 sudo reboot
 ```
-I refered [this post][post]
-[post]: https://www.faqforge.com/linux/ubuntu-sidebar-top-bar-disappeared-heres-can-bring-back/
+I refered to [this post][reference]
+[reference]: https://www.faqforge.com/linux/ubuntu-sidebar-top-bar-disappeared-heres-can-bring-back
+
