@@ -4,7 +4,7 @@ data: 2019-09-25 00:41:00 -0400
 categories: ubuntu desktop error
 ---
 
-Lists of packages downloaded from the Ubuntu servers are  in the /var/lib/apt/lists.
+Lists of packages downloaded from the Ubuntu servers are  in the /var/lib/apt/lists.  
 There is no harm with revmoving all contents in this directory.
 
 ```bash
