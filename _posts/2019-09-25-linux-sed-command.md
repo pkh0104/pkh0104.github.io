@@ -13,4 +13,4 @@ $ sed -i -e 's+\(^deb http://security.*\)+# \1+g' /etc/apt/sources.list
 '+'가 내가 알고 있는 '/'로 쓰이고 있다.  
 \(\) 안의 내용은 뒤에서 \1로 불러올수 있다. \(a\)\(b\)에서 \1은 a가 되고 \2는 b가 된다.  
 
-결국 /etc/apt/sources.list 파일 안에서 dev http://security.*로 시작하는 문자열을 찾아서 # dev http://security.*로 치환하는 명령이다.
+결국 /etc/apt/sources.list 파일 안에서 "dev http://security.*"로 시작하는 문자열을 찾아서 "# dev http://security.*"로 치환하는 명령이다.
