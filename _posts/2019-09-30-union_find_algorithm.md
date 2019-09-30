@@ -1,7 +1,7 @@
 ---
 title: "Union find algorithm"
 data: 2019-09-30 00:41:00 -0400
-categories: algorithm graph disjoint subsets
+categories: algorithm graph disjoint-set
 ---
 
 집합의 원소들을 교집합이 없는 상호 배타적인 부분 집합들로 분류하는 것을 목적으로 한다.(disjoint set)  
