@@ -1,6 +1,6 @@
 ---
 title: "How to recover when all bars disappeared on ubuntu desktop"
-data: 2019-09-24 16:28:00 -0400
+date: 2019-09-24 16:28:00 -0400
 categories: ubuntu desktop
 ---
 
