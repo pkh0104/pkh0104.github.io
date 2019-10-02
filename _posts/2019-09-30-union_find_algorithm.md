@@ -1,6 +1,6 @@
 ---
 title: "Union find algorithm"
-data: 2019-09-30 00:41:00 -0400
+dat: 2019-09-30 00:41:00 -0400
 categories: algorithm graph disjoint-set
 ---
 
