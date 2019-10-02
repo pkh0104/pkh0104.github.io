@@ -1,6 +1,6 @@
 ---
 title: "Could not get lock /var/lib/apt/lists/lock when apt-get update"
-data: 2019-09-25 00:41:00 -0400
+date: 2019-09-25 00:41:00 -0400
 categories: ubuntu desktop error
 ---
 
