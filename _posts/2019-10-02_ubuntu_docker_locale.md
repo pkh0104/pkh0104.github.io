@@ -8,7 +8,7 @@ Docker에서 제공하는 공식 Image는 일반 Linux 배포판과 달리 Proce
 기본적으로 설정 가능한 Locale도 C(POSIX)(기본값), C.UTF-8 정도로 제한적이다.  
 
 Locale 형식  
-<language>_<territory>.<codeset>  
+language_territory.codeset  
 ex) en_US.UTF-8
 
 Locale 확인 방법  
