@@ -1,5 +1,5 @@
 ---
-title: "ubuntu terminal prompt stuck"
+title: "Ubuntu terminal prompt stuck"
 date: 2019-10-14 23:54:00 -0400
 categories: ubuntu terminal stuck
 ---
