@@ -52,4 +52,4 @@ int main() {
     return 0;
 }
 ```
-Thread 사용 방법 추가  
+Thread 사용 방법 추가 
